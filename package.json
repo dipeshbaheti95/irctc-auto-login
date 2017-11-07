@@ -2,7 +2,7 @@
   "name": "irctc-auto-login",
   "version": "1.0.0",
   "description": "Headless Browsing!!!",
-  "main": "index.js",
+  "main": "irctc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
